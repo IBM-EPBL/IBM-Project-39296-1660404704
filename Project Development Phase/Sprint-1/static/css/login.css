@@ -168,7 +168,7 @@ a:hover{
 	border-radius: 25px;
 	outline: none;
 	border: none;
-	background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+	background-color: rgb(140, 20, 220);
 	background-size: 200%;
 	font-size: 1.2rem;
 	color: #fff;
